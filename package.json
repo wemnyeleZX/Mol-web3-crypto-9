@@ -1,0 +1,35 @@
+{
+  "name": "mol-web3-crypto-9",
+  "version": "1.0.0",
+  "description": "Đoạn mã này cho phép người dùng đăng ký và tham gia sự kiện phát hành token (TGE) của dự án.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wemnyeleZX/Mol-web3-crypto-9.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wemnyeleZX/Mol-web3-crypto-9/issues"
+  },
+  "homepage": "https://github.com/wemnyeleZX/Mol-web3-crypto-9#readme",
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.15.13",
+    "mol-web3-crypto-1": "^1.0.0",
+    "mol-web3-crypto-2": "^1.0.0",
+    "mol-web3-crypto-3": "^1.0.0",
+    "mol-web3-crypto-4": "^1.0.0",
+    "mol-web3-crypto-5": "^1.0.0",
+    "mol-web3-crypto-6": "^1.0.0",
+    "mol-web3-crypto-7": "^1.0.0",
+    "mol-web3-crypto-8": "^1.0.0",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
